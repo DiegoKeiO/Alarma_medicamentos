@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+flask_cors
+apscheduler
+mysql-connector-python
+python-dotenv
